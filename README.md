@@ -26,6 +26,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="20%" align="center">
         <span>HTML5</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -38,10 +42,6 @@
       <td width="20%" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span>React Js</span><br><br><br>
