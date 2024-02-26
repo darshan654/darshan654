@@ -44,12 +44,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" align="center">
-        <span>React Js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="20%" align="center">
         <span>Tailwind</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>React Js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
