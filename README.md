@@ -68,7 +68,6 @@
         <img src="https://cdn.svgporn.com/logos/react.svg" class="mx-auto h-16" alt="React Js">
       </div>
     </div>
-  
     <!-- Row 3 -->
     <div class="flex justify-center mb-4 w-full md:w-1/4">
       <div class="text-center">
