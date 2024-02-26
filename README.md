@@ -29,11 +29,11 @@
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      </tr>
       <td width="20%" align="center">
         <span>HTML5</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-    </tr>
     <tr valign="top">
       <td width="20%" align="center">
         <span>CSS3</span><br><br><br>
