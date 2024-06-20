@@ -65,14 +65,7 @@
         <span>Flowbite UI</span><br><br><br>
         <img height="64px" src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.png">
       </td>
-      <td width="20%" align="center">
-        <span>Material UI</span><br><br><br>
-        <img height="64px" src="https://material-ui.com/static/logo_raw.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Chakra UI</span><br><br><br>
-        <img height="64px" src="https://chakra-ui.com/favicon.ico">
-      </td>
+      
     </tr>
   </tbody>
 </table>
